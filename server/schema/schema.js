@@ -1,5 +1,5 @@
-const Project = require('../models/Project');
-const Client = require('../models/Client');
+const Project = require('../models/project');
+const Client = require('../models/client');
 
 const {
     GraphQLObjectType,
